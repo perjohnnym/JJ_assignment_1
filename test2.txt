@@ -1,0 +1,2 @@
+this is my 2nd text file
+I want to test the commit on this 2nd text file
