@@ -1,0 +1,41 @@
+body {
+  /*background-color: royalblue;*/
+  background-color: rgb(73, 18, 246);
+  margin: 0px;
+  font-family: Arial;
+}
+.section-1 {
+  color: white; /* this indicates the color of the text located in the section invoked */
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+/*.container1 {
+  color: white; /* this indicates the color of the text located in the section invoked */ /*
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}*/
+
+input[type="button"] {
+  color: white; /* this indicates the color of the text located in the section invoked */
+  padding: 7px 20px;
+  font-weight: bold;
+  border: 0px;
+  border-radius: 100px;
+}
+.section-2 {
+  color: white;
+  padding: 50px 0px;
+  display: flex; /* by default, this implies flex-direction as "row" */
+  justify-content: center;
+  align-items: center;
+  margin: 0px 0px 0px 100px;
+}
+.section-3 {
+  color: white; /* this indicates the color of the text located in the section invoked */
+  display: flex; /* by default, this implies flex-direction as "row" */
+  align-items: center;
+  justify-content: center;
+}
